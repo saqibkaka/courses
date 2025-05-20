@@ -1,0 +1,70 @@
+1.
+Question 1
+In this spreadsheet, what number is in cell B4?
+  
+(n/a)       A            B            C            D            E
+1          909          365          794          649          846
+2          347          221          351          737          362
+3          520          705          990          256          393
+4          797          986          184          292          482
+5          993          161          212          764          970
+
+
+
+161
+986
+649
+737
+
+Correct
+The number in cell B4 is 986. B is the column, which is vertical. And 4 is the row, which is horizontal. They intersect in cell B4, which contains the number 986.
+
+
+
+
+Question 2
+What spreadsheet feature is used to change the height of a cell to allow the text inside to fit?
+
+Filter
+Sort
+Dropdown
+Text wrap
+
+Correct (Text wrap)
+Text wrap is used to change the height of a cell to allow the text inside to fit. Overflow allows the text to continue into the next cell, if it is empty. Wrap forces the text to wrap to the next line within the same cell. Clip hides any text that does not fit within the width of the cell.
+
+
+
+
+Question 3
+In this spreadsheet, which of the following are attributes? Select all that apply.
+
+(n/a)            A                 B            C              D
+(n/a)          (n/a)           Roses          Irises          Lilies
+1              Revenue        $15,837        $10,22 4          $13,857
+2              Expense        $6,409         $3,592            $4,002
+3              Net profit     $9,428         $6,632            $9,855
+
+Irises 
+Revenue
+Net profit
+Lilies
+
+Correct (Irises, lilies )
+Irises and lilies are attributes. They are characteristics used to label columns.
+
+
+
+
+
+Question 4
+What symbol is used to start a formula?
+
+
+Equal sign (=)
+Asterisk (*)
+Slash mark (/)
+Plus sign (+)
+
+Correct  (Equal sign (=))
+The equal sign (=) is used to start a formula. 
